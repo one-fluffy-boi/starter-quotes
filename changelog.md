@@ -13,4 +13,3 @@ Changelog (newest first):
 2018-01-18: Added new quote and image to homepage
 
 2018-01-18: Added team members and code style 
-
